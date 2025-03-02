@@ -10,6 +10,4 @@ variable "client_secret"{
 variable "tenant_id"{
   type=string
 }
-variable "maryam_id"{
-  type=string
-}
+
